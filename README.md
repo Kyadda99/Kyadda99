@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Łukasz Ligęzka 👋
+# Hi, I'm Łukasz Ligęzka
 
 **Fullstack Developer** — Python & C# | AI Agent Orchestration | Backend & Cloud Systems
 
