@@ -21,7 +21,6 @@ I care about clean, well-tested code, reliable deployments, and turning AI tooli
 
 ### 🚀 Currently
 
-- Building **VoiceSphere** — a virtual voice agent platform for call centers (Django, WebSockets, Celery/Redis, Docker)
 - Exploring AI agent orchestration patterns: task decomposition, scoped agents, and rigorous code review of AI-generated code
 - Open to new backend / fullstack / AI-engineering opportunities
 
