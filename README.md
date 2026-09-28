@@ -20,7 +20,7 @@ I care about clean, well-tested code, reliable deployments, and turning AI tooli
 ---
 
 ### 🚀 Currently
-
+- Building Project **CreditScoring**: an end-to-end ML platform predicting loan default risk (XGBoost, MLflow, Prefect, FastAPI, Redis, Kubernetes)
 - Exploring AI agent orchestration patterns: task decomposition, scoped agents, and rigorous code review of AI-generated code
 - Open to new backend / fullstack / AI-engineering opportunities
 
